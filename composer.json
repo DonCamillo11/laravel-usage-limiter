@@ -1,5 +1,5 @@
 {
-    "name": "nabilhassen/laravel-usage-limiter",
+    "name": "doncamillo11/laravel-usage-limiter",
     "description": "A laravel package to manage and limit usages/seats by plan, users, or other models",
     "keywords": [
         "laravel",
@@ -15,8 +15,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Nabil Hassen",
-            "email": "nabil.hassen08@gmail.com"
+            "name": "Tommaso Maiocchi",
+            "email": "moin@maiocchi.de"
         }
     ],
     "homepage": "https://github.com/nabilhassen/laravel-usage-limiter",
