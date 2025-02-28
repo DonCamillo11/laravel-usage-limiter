@@ -21,10 +21,8 @@
     ],
     "homepage": "https://github.com/nabilhassen/laravel-usage-limiter",
     "require": {
-        "php": "^8.0",
-        "illuminate/database": "^8.0|^9.0|^10.0|^11.0",
-        "illuminate/support": "^8.0|^9.0|^10.0|^11.0",
-        "illuminate/console": "^8.0|^9.0|^10.0|^11.0",
+        "php": "^8.2",
+        "laravel/framework": "^9|^10|^11|^12"
         "nesbot/carbon": "^2.67|^3.0"
     },
     "require-dev": {
